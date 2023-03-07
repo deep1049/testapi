@@ -11,5 +11,15 @@
       "cost": 1299,
       "borrowed": false
     }
+  ],
+  "Users": [
+    {
+      "firstName": "Pardeep",
+      "lastName": "Singh",
+      "email": "deepbedi1049@gmail.com",
+      "mobile": "8558021138",
+      "password": "12345",
+      "id": 1
+    }
   ]
 }
